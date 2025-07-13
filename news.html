@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload News / Article</title>
+  <link rel="stylesheet" href="news.css">
+</head>
+
+<body>
+  <div class="upload-container">
+    <h2>Upload Daily News / Article</h2>
+    <nav>
+      <ul class="navitems">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="rights.html">Back</a></li>
+      </ul>
+    </nav>
+    <form id="newsForm">
+      <input type="text" id="title" placeholder="Enter news title" required>
+      <textarea id="content" placeholder="Write the news or article here..." required></textarea>
+      <input type="date" id="date" required>
+      <button type="submit">Upload News</button>
+    </form>
+
+    <div class="uploaded-news">
+      <h3>Uploaded News & Articles</h3>
+      <div id="newsDisplay"></div>
+    </div>
+  </div>
+
+
+</head>
+<body>
+  <header>
+    <h1>📰 Women's News </h1>
+  </header>
+
+  <main>
+    <section class="news-section">
+      <h2>Latest News</h2>
+      <ul id="news-list">
+        <!-- News items inserted by JavaScript -->
+      </ul>
+    </section>
+
+  <script src="news.js"></script>
+</body>
+
+</html>

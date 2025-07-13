@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Women's Safety App</title>
+  <link rel="stylesheet" href="safety.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Women's Safety Video Sharing</h1>
+    <p>Share short safety videos or YouTube links to help others stay safe.</p>
+
+    <div class="input-section">
+      <input type="url" id="videoLinkInput" placeholder="Paste 30-sec video or YouTube short link..." />
+      <button onclick="addVideo()">Add Video</button>
+    </div>
+
+    <div class="video-section">
+      <h2>Shared Safety Videos</h2>
+      <div id="videoList" class="video-list"></div>
+    </div>
+  </div>
+
+  <script src="safety.js"></script>
+</body>
+</html>
