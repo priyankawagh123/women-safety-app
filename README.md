@@ -4,14 +4,14 @@ The app provides quick and efficient features that allow users to alert their tr
 
 
 # Key Features
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/index.html">Home</a> - Introduction to the app with a simple UI and navigation menu.
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/contact.html">Contact</a> - Page to connect with support teams or provide feedback.
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/about.html">About</a> - Brief about the app’s mission to empower women.
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/selfDefence.html">Self-Defense</a> -	Watch or share self-defense videos and tutorials.
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/reports.html">Reports</a> - Enables users to report incidents (simulated).
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/rights.html">Rights</a> - Information on legal rights and laws to handle harassment.
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/news.html">News</a> - Users can upload or read daily safety news/articles.
-- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/safety.html">Safety Tips</a> -	Share and view short safety videos or YouTube links.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/index.html">Home</a> - Introduction to the app with a simple UI and navigation menu.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/contac.html">Contact</a> - Page to connect with support teams or provide feedback.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/about.html">About</a> - Brief about the app’s mission to empower women.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/selfDefence.html">Self-Defense</a> -	Watch or share self-defense videos and tutorials.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/reports.html">Reports</a> - Enables users to report incidents (simulated).
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/rights.html">Rights</a> - Information on legal rights and laws to handle harassment.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/news.html">News</a> - Users can upload or read daily safety news/articles.
+- <a href="https://github.com/priyankawagh123/Women-Safety-App/blob/main/safety.html">Safety Tips</a> -	Share and view short safety videos or YouTube links.
 
 # How It Works
 - Static Website built using HTML, CSS, and JavaScript.
